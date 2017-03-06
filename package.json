@@ -1,0 +1,36 @@
+{
+  "name": "openvpn-admin-js",
+  "version": "1.0.0",
+  "description": "This is a web project for manager openvpn server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tajoy/openvpn-admin-js.git"
+  },
+  "keywords": [
+    "openvpn",
+    "admin"
+  ],
+  "author": "Tajoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tajoy/openvpn-admin-js/issues"
+  },
+  "homepage": "https://github.com/tajoy/openvpn-admin-js",
+  "dependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "css-loader": "^0.26.2",
+    "ejs": "^2.5.6",
+    "express": "^4.15.0",
+    "jsx-loader": "^0.13.2",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "style-loader": "^0.13.2"
+  }
+}
